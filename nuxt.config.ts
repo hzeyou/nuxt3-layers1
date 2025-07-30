@@ -13,6 +13,7 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
+      title: 'nuxt3-layers1',
       meta: [
         { name: 'viewport-1', content: 'width=device-width, initial-scale=1' }
       ],
